@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import heapq
 
-#HELLO TEST TEST TEST
+
 FILE_PATH = "CallCounts.xls"
 SEED = 12345
 N_REP = 5000
